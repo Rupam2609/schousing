@@ -366,6 +366,11 @@
             background-color: transparent;
         }
         
+        .d-block.w-100 {
+            height: 600px;
+            width: auto;
+        }
+        
         .donation {
             display: flex;
             flex-direction: column;
